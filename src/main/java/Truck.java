@@ -3,7 +3,7 @@ public class Truck implements  Vehicle{
 
     @Override
     public String model() {
-        return "Truck 2020 model done";
+        return "Truck 2020 model";
     }
 
     @Override
