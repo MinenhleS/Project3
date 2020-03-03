@@ -4,6 +4,8 @@
     <list default="true" id="ae9cd1c6-80c5-430d-acc7-c90e10310ffd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Honda.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Honda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestSamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestSamples.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +40,32 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.TestSamples.shouldReturnRegNumber">
+  <component name="RunManager" selected="JUnit.TestSamples.shouldReturnCarModel">
+    <configuration name="TestSamples.shouldCheckCarTypeModel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSamples" />
+      <option name="METHOD_NAME" value="shouldCheckCarTypeModel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestSamples.shouldCheckTruckModel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project3" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestSamples" />
       <option name="METHOD_NAME" value="shouldCheckTruckModel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSamples.shouldReturnCarModel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSamples" />
+      <option name="METHOD_NAME" value="shouldReturnCarModel" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,6 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestSamples.shouldReturnCarModel" />
+        <item itemvalue="JUnit.TestSamples.shouldCheckCarTypeModel" />
         <item itemvalue="JUnit.TestSamples.shouldReturnRegNumber" />
         <item itemvalue="JUnit.TestSamples.shouldCheckTruckModel" />
       </list>
@@ -84,22 +108,26 @@
       <screen x="0" y="23" width="1280" height="710" />
     </state>
     <state x="453" y="100" key="#com.intellij.ide.util.MemberChooser/0.23.1280.710@0.23.1280.710" timestamp="1583261065762" />
-    <state width="1260" height="174" key="GridCell.Tab.0.bottom" timestamp="1583274564608">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state width="1260" height="174" key="GridCell.Tab.0.bottom" timestamp="1583276967726">
+      <screen x="0" y="23" width="1280" height="708" />
     </state>
-    <state width="1260" height="174" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1583274564608" />
-    <state width="1260" height="174" key="GridCell.Tab.0.center" timestamp="1583274564607">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state width="1260" height="174" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1583275265865" />
+    <state width="1260" height="174" key="GridCell.Tab.0.bottom/1280.414.800.577/0.23.1280.708@0.23.1280.708" timestamp="1583276967726" />
+    <state width="1260" height="174" key="GridCell.Tab.0.center" timestamp="1583276967725">
+      <screen x="0" y="23" width="1280" height="708" />
     </state>
-    <state width="1260" height="174" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1583274564607" />
-    <state width="1260" height="174" key="GridCell.Tab.0.left" timestamp="1583274564606">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state width="1260" height="174" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1583275265865" />
+    <state width="1260" height="174" key="GridCell.Tab.0.center/1280.414.800.577/0.23.1280.708@0.23.1280.708" timestamp="1583276967725" />
+    <state width="1260" height="174" key="GridCell.Tab.0.left" timestamp="1583276967725">
+      <screen x="0" y="23" width="1280" height="708" />
     </state>
-    <state width="1260" height="174" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1583274564606" />
-    <state width="1260" height="174" key="GridCell.Tab.0.right" timestamp="1583274564607">
-      <screen x="0" y="23" width="1280" height="710" />
+    <state width="1260" height="174" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1583275265864" />
+    <state width="1260" height="174" key="GridCell.Tab.0.left/1280.414.800.577/0.23.1280.708@0.23.1280.708" timestamp="1583276967725" />
+    <state width="1260" height="174" key="GridCell.Tab.0.right" timestamp="1583276967726">
+      <screen x="0" y="23" width="1280" height="708" />
     </state>
-    <state width="1260" height="174" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1583274564607" />
+    <state width="1260" height="174" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1583275265865" />
+    <state width="1260" height="174" key="GridCell.Tab.0.right/1280.414.800.577/0.23.1280.708@0.23.1280.708" timestamp="1583276967726" />
     <state x="305" y="57" width="670" height="676" key="search.everywhere.popup" timestamp="1583262495614">
       <screen x="0" y="23" width="1280" height="710" />
     </state>

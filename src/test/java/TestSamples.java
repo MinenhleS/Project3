@@ -18,11 +18,11 @@ public class TestSamples {
 
 
     @Test
-    public void shouldCheckCarTypeModel(){
+    public void shouldReturnCarModel(){
     honda = new Honda();
     String result = honda.model();
 
-        Assert.assertEquals("Honda sport 2020 model", result);
+        Assert.assertEquals("Car 2020 model", result);
     }
 
     @Test
