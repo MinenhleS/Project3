@@ -38,8 +38,12 @@ public class TestSamples {
     }
 
     @Test
-    public void shouldCheckW(){
+    public void shouldRunAlternativeOfInheritance(){
+        Opel opel = new Opel();
+        
+        String result = opel.model();
 
+        Assert.assertEquals("Car 2020 model", result);
 
     }
 
